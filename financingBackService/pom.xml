@@ -9,9 +9,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.pulsate.intelligent_life</groupId>
-	<artifactId>financingBackService</artifactId>
+	<artifactId>FinancingBackService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>financingBackService</name>
+	<name>FinancingBackService</name>
 	<description>财务后台系统</description>
 	<!-- 依赖版本管理 -->
 	<properties>
